@@ -1,5 +1,5 @@
 ## Welcome to eLearning platform
-### you can get services from here
+### you can get services from here like webdesign, development etc,,,
 * Best online learning platform
 * Improve your skill today
 * Project was build by react.js
